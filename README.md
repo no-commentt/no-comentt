@@ -68,3 +68,10 @@
 <div align="center">
 © Arts 2022-2023 | © Blashingtits Corp 2020-2023
 </div>
+
+<a target="_blank" rel="noreferrer" href="https://owncloud.com/federation#root@nocomment.ddns.net"
+	style="padding:10px;background-color:#041e42;color:#fff;border-radius:3px;padding-left:4px;">
+	<img src="https://nocomment.ddns.net/core/img/logo-icon.svg"
+		style="width:50px;position:relative;top:8px;">
+	Share with me via ownCloud
+</a>
