@@ -1,4 +1,4 @@
-![](https://i.imgur.com/cSorsuu.png)
+![](https://cdn.discordapp.com/attachments/1089263226899943424/1197342767005835374/EW.png?ex=65baeb59&is=65a87659&hm=aa1545d1a8db7a8101af48d3ed5a7d4ff2e4a0616940b3398ac9b1f70af0b447&)
 
 <div align=center>
 
@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23d11111&height=26" />
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23d11111&height=26" />
 <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23d11111&height=26" />
-<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23d11111&height=26" />
+<!-- <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23d11111&height=26" /> -->
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23d11111&height=26" />
 
 <img align="left" alt="Lua" width="26px" src="https://api.iconify.design/simple-icons:lua.svg?color=%23d11111&height=26" />
