@@ -22,7 +22,7 @@
 #### Languages & Syntax:
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=#7A6D79&height=26" />
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=#7A6D79&height=26" />
-<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=#7A6D79&height=26" />
+<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=[#7A6D79]&height=26" />
 <!-- <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=#7A6D79&height=26" /> -->
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=#7A6D79&height=26" />
 
